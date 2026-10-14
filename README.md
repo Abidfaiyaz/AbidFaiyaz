@@ -37,13 +37,13 @@
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages
-Java | JavaScript *(if applicable)*
+Java 
 
 ### 🧪 Testing & Automation
 Selenium WebDriver | Playwright | TestNG | Manual Testing | Functional Testing | Regression Testing
 
 ### 🔗 API & Database Testing
-API Testing | REST APIs | Postman | SQL | Database Validation
+API Testing | REST APIs | Postman | SQL 
 
 ### ⚙️ Tools & Technologies
 Git | GitHub | Jira | Maven
